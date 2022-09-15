@@ -1,0 +1,40 @@
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolution.exe.config
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolution.exe
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolution.pdb
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.AssemblyReference.cache
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.loginForm.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Properties.Resources.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.GenerateResource.cache
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.CoreCompileInputs.cache
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.exe
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.pdb
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.LoadingForm.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolutionDatabase.mdf
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolutionDatabase_log.ldf
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.Products.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.CustomersList.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.CustomersRegistration.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.DashboardForm.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.OrderingForm.resources
+C:\Users\Sinethemba Gomba\source\repos\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.OrderProcedure.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolutionDatabase.mdf
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolutionDatabase_log.ldf
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolution.exe.config
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolution.exe
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\bin\Debug\PoppelSolution.pdb
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.AssemblyReference.cache
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.CustomersList.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.CustomersRegistration.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.loginForm.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.LoadingForm.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.DashboardForm.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.OrderingForm.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.OrderProcedure.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Presentation_Layer.Products.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.Properties.Resources.resources
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.GenerateResource.cache
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.csproj.CoreCompileInputs.cache
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.exe
+C:\Users\Sinethemba Gomba\Desktop\2011 Project\PoppelSolution\PoppelSolution\obj\Debug\PoppelSolution.pdb
